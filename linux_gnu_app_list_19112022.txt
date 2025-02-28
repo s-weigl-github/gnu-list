@@ -1,3 +1,6 @@
+# date format DD-MM-YYYY or
+#             DD.MM.YYYY
+
 buildroot
 https://buildroot.org/downloads/buildroot-2022.08-rc2.tar.gz
 https://buildroot.org/downloads/buildroot-2023.02.tar.gz
@@ -326,5 +329,7 @@ git
 https://www.kernel.org/pub/software/scm/git/git-2.48.1.tar.gz -- 14-01-2025
 https://www.kernel.org/pub/software/scm/git/
 
-
+gnu parallel
+https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250222.tar.bz2 -- 22-02-2025
+https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 
