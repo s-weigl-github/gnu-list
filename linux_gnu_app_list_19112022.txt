@@ -333,3 +333,5 @@ gnu parallel
 https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250222.tar.bz2 -- 22-02-2025
 https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 
+gnu libunistring
+https://ftp.gnu.org/gnu/libunistring/?C=M;O=D
