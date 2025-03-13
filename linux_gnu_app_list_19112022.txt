@@ -335,3 +335,6 @@ https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 
 gnu libunistring
 https://ftp.gnu.org/gnu/libunistring/?C=M;O=D
+
+dmidecode
+https://download.savannah.gnu.org/releases/dmidecode/?C=M&O=D
