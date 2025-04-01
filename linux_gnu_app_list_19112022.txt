@@ -269,14 +269,12 @@ https://ftp.gnu.org/gnu/wget/wget2-2.1.0.tar.gz -- 31-08-2023
 https://ftp.gnu.org/gnu/wget/
 
 rsync
-https://download.samba.org/pub/rsync/src/rsync-3.2.7.tar.gz -- 20.10.2022
-https://download.samba.org/pub/rsync/src-previews/rsync-3.3.0pre1.tar.gz -- 29.04.2023 pre
-https://download.samba.org/pub/rsync/src/rsync-3.3.0.tar.gz -- 06-04-2024
+https://download.samba.org/pub/rsync/src/rsync-3.4.1.tar.gz -- 15-01-2025
 https://download.samba.org/pub/rsync/src/
 
-parallel
-https://ftp.gnu.org/gnu/parallel/parallel-20230822.tar.bz2 -- 24.08.2023
-https://ftp.gnu.org/gnu/parallel/parallel-20241022.tar.bz2 -- 21-10-2024
+gnu parallel
+https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250222.tar.bz2 -- 22-02-2025
+https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 https://ftp.gnu.org/gnu/parallel/?C=M;O=D
 
 mlocate
@@ -300,6 +298,7 @@ https://sourceforge.net/projects/gsmartcontrol/files/
 grsync
 https://sourceforge.net/projects/grsync/files/grsync-1.3.1.tar.gz/download -- 14-08-2023
 https://sourceforge.net/projects/grsync/files/
+https://www.opbyte.it/grsync/download.html
 
 iperf3
 https://downloads.es.net/pub/iperf/iperf-3.17.tar.gz -- 10-05-2024
@@ -328,10 +327,6 @@ https://download.qemu.org/qemu-9.2.0-rc3.tar.bz2 -- 11-12-2024
 git
 https://www.kernel.org/pub/software/scm/git/git-2.48.1.tar.gz -- 14-01-2025
 https://www.kernel.org/pub/software/scm/git/
-
-gnu parallel
-https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250222.tar.bz2 -- 22-02-2025
-https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 
 gnu libunistring
 https://ftp.gnu.org/gnu/libunistring/?C=M;O=D
