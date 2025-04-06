@@ -333,3 +333,6 @@ https://ftp.gnu.org/gnu/libunistring/?C=M;O=D
 
 dmidecode
 https://download.savannah.gnu.org/releases/dmidecode/?C=M&O=D
+
+lnav -- logfile navigator
+https://github.com/tstack/lnav/releases
