@@ -260,12 +260,11 @@ https://github.com/curl/curl/releases/download/curl-8_10_1/curl-8.10.1.tar.gz --
 https://curl.se/download.html
 
 wget
-https://ftp.gnu.org/gnu/wget/wget-1.24.5.tar.gz -- 10-03-2024
+https://ftp.gnu.org/gnu/wget/wget-1.25.0.tar.gz -- 10-11-2024
 https://ftp.gnu.org/gnu/wget/?C=M;O=D
 
 wget2
-https://ftp.gnu.org/gnu/wget/wget2-2.0.1.tar.gz -- 27.05.2022
-https://ftp.gnu.org/gnu/wget/wget2-2.1.0.tar.gz -- 31-08-2023
+https://ftp.gnu.org/gnu/wget/wget2-2.2.0.tar.gz -- 24-11-2024
 https://ftp.gnu.org/gnu/wget/
 
 rsync
