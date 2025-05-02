@@ -324,7 +324,7 @@ qemu
 https://download.qemu.org/qemu-9.2.0-rc3.tar.bz2 -- 11-12-2024
 
 git
-https://www.kernel.org/pub/software/scm/git/git-2.48.1.tar.gz -- 14-01-2025
+https://www.kernel.org/pub/software/scm/git/git-2.49.0.tar.gz -- 14-03-2025
 https://www.kernel.org/pub/software/scm/git/
 
 gnu libunistring
