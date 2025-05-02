@@ -336,3 +336,6 @@ https://download.savannah.gnu.org/releases/dmidecode/?C=M&O=D
 
 lnav -- logfile navigator
 https://github.com/tstack/lnav/releases
+
+inxi
+wget -O inxi https://codeberg.org/smxi/inxi/raw/master/inxi
