@@ -345,5 +345,8 @@ https://github.com/aristocratos/btop/archive/refs/tags/v1.4.2.tar.gz
 lsof
 https://github.com/lsof-org/lsof/releases/download/4.99.4/lsof-4.99.4.tar.gz
 
-lowdown
+lowdown -- needed for btop
 https://github.com/kristapsdz/lowdown
+
+bat
+https://github.com/sharkdp/bat
