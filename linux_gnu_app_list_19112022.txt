@@ -350,3 +350,6 @@ https://github.com/kristapsdz/lowdown
 
 bat
 https://github.com/sharkdp/bat
+
+lynx 
+https://lynx.invisible-island.net/current/
