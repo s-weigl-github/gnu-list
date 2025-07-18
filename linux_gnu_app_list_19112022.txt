@@ -353,3 +353,6 @@ https://github.com/sharkdp/bat
 
 lynx 
 https://lynx.invisible-island.net/current/
+
+man-pages
+https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/
