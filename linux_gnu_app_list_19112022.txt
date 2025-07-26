@@ -356,3 +356,6 @@ https://lynx.invisible-island.net/current/
 
 man-pages
 https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/
+
+mediawiki wiki
+https://releases.wikimedia.org/mediawiki/ -- 1.44 - 22-07-2025
