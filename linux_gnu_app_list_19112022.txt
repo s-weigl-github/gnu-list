@@ -341,6 +341,7 @@ wget -O inxi https://codeberg.org/smxi/inxi/raw/master/inxi
 
 btop
 https://github.com/aristocratos/btop/archive/refs/tags/v1.4.2.tar.gz
+https://github.com/aristocratos/btop/archive/refs/tags/v1.4.4.tar.gz
 
 lsof
 https://github.com/lsof-org/lsof/releases/download/4.99.4/lsof-4.99.4.tar.gz
