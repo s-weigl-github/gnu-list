@@ -101,6 +101,7 @@ https://ftp.gnu.org/gnu/automake/
 
 bc
 https://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz -- 09-04-2017
+https://ftp.gnu.org/gnu/bc/bc-1.08.2.tar.gz -- 25-05-2025
 https://ftp.gnu.org/gnu/bc/
 
 bison
