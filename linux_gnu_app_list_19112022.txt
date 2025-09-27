@@ -320,6 +320,8 @@ http://ftp.mutt.org/pub/mutt/?C=M;O=D
 
 linux-utils includes lsblk
 https://www.kernel.org/pub/linux/utils/util-linux/v2.40/util-linux-2.40.2.tar.gz -- 04-07-2024
+https://www.kernel.org/pub/linux/utils/util-linux/v2.41/util-linux-2.41.2.tar.gz -- 22-09-2025
+https://www.kernel.org/pub/linux/utils/util-linux/
 
 qemu
 https://download.qemu.org/qemu-9.2.0-rc3.tar.bz2 -- 11-12-2024
