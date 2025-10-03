@@ -1,13 +1,19 @@
 # date format DD-MM-YYYY or
 #             DD.MM.YYYY
+#
+# links to find gnu tarballs
+
+https://ftp.gnu.org/gnu/
+https://ftp.fau.de/gnu/
+https://mirror.netcologne.de/gnu/
+
+#
 
 buildroot
 https://buildroot.org/downloads/buildroot-2022.08-rc2.tar.gz
 https://buildroot.org/downloads/buildroot-2023.02.tar.gz
 https://buildroot.org/downloads/buildroot-2024.02.7.tar.gz -- 21-10-2024
 https://buildroot.org/downloads/
-
-https://ftp.gnu.org/gnu/
 
 bash
 https://mirror.netcologne.de/gnu/bash/bash-5.2.37.tar.gz -- 23-11-2024
