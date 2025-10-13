@@ -10,42 +10,37 @@ https://mirror.netcologne.de/gnu/
 #
 
 buildroot
-https://buildroot.org/downloads/buildroot-2022.08-rc2.tar.gz
-https://buildroot.org/downloads/buildroot-2023.02.tar.gz
-https://buildroot.org/downloads/buildroot-2024.02.7.tar.gz -- 21-10-2024
+https://buildroot.org/downloads/buildroot-2025.08.1.tar.xz -- 11-10-2025
 https://buildroot.org/downloads/
 
 bash
 https://mirror.netcologne.de/gnu/bash/bash-5.2.37.tar.gz -- 23-11-2024
-https://mirror.netcologne.de/gnu/bash/bash-5.3.tar.gz -- 03-07-2025
+https://mirror.netcologne.de/gnu/bash/bash-5.3.tar.gz -- 30-07-2025
 https://mirror.netcologne.de/gnu/bash
 
 tar
-https://ftp.gnu.org/gnu/tar/tar-1.34.tar.gz -- 13-02-2021
 https://ftp.gnu.org/gnu/tar/tar-1.35.tar.gz -- 19-07-2023
 https://ftp.gnu.org/gnu/tar
 
 gcc
-https://ftp.gnu.org/gnu/gcc/gcc-13.2.0/gcc-13.2.0.tar.gz -- 27-07-2023 needs gmp, mpfr and mpc
-https://ftp.gnu.org/gnu/gcc/gcc-14.2.0/gcc-14.2.0.tar.gz -- 01-08-2024
+https://ftp.gnu.org/gnu/gcc/gcc-15.2.0/gcc-15.2.0.tar.gz -- 08-08-2025
 https://ftp.gnu.org/gnu/gcc/
-https://gcc.gnu.org/wiki/InstallingGCC
+https://gcc.gnu.org/wiki/InstallingGCC - needs gmp, mpfr and mpc
 
 gmp
 https://ftp.gnu.org/gnu/gmp/gmp-6.3.0.tar.xz -- 30-07-2023
 https://ftp.gnu.org/gnu/gmp/
 
 mpfr
-https://www.mpfr.org/mpfr-current/mpfr-4.2.1.tar.gz - install befor mpc -- 22-08-2023
-https://www.mpfr.org/mpfr-current/
+https://www.mpfr.org/mpfr-current/mpfr-4.2.2.tar.gz -- 20-03-2025
+https://www.mpfr.org/mpfr-current/ - install befor mpc
 
 mpc
 https://ftp.gnu.org/gnu/mpc/mpc-1.3.1.tar.gz -- 16-12-2022
 https://ftp.gnu.org/gnu/mpc
 
 gdb
-https://ftp.gnu.org/gnu/gdb/gdb-14.1.tar.gz -- 03-12-2023
-https://ftp.gnu.org/gnu/gdb/gdb-15.2.tar.gz -- 29-09-2024
+https://ftp.gnu.org/gnu/gdb/gdb-16.3.tar.gz -- 20-04-2025
 https://ftp.gnu.org/gnu/gdb/
 
 sed
@@ -57,28 +52,23 @@ https://ftp.gnu.org/gnu/make/make-4.4.1.tar.gz -- 26-02-2023
 https://ftp.gnu.org/gnu/make/
 
 ncurses
-https://ftp.gnu.org/pub/gnu/ncurses/ncurses-6.4.tar.gz - needed for nano -- 31-12-2022
 https://ftp.gnu.org/pub/gnu/ncurses/ncurses-6.5.tar.gz -- 27-04-2024
-https://ftp.gnu.org/pub/gnu/ncurses/
+https://ftp.gnu.org/pub/gnu/ncurses/ - needed for nano
 
 binutils
-https://ftp.gnu.org/pub/gnu/binutils/binutils-2.41.tar.xz - needs texinfo -- 30-07-2023
-https://ftp.gwdg.de/pub/linux/sources.redhat.com/binutils/releases/binutils-2.40.tar.gz
-https://ftp.gnu.org/pub/gnu/binutils/binutils-2.43.1.tar.gz -- 17-08-2024
-https://ftp.gnu.org/pub/gnu/binutils/
+https://ftp.gnu.org/pub/gnu/binutils/binutils-2.45.tar.gz -- 27-07-2025
+https://ftp.gnu.org/pub/gnu/binutils/ - needs texinfo
 
 texinfo
-https://ftp.gnu.org/gnu/texinfo/texinfo-7.1.tar.gz -- 18-10-2023
-https://ftp.gnu.org/gnu/texinfo/texinfo-7.1.1.tar.gz -- 07-09-2024
+https://ftp.gnu.org/gnu/texinfo/texinfo-7.2.tar.gz -- 23-12-2024
 https://ftp.gnu.org/gnu/texinfo/
 
 libtool
-https://ftp.gnu.org/pub/gnu/libtool/libtool-2.4.7.tar.gz -- 17-03-2022
-https://ftp.gnu.org/pub/gnu/libtool/libtool-2.5.3.tar.gz -- 25-09-2024
+https://ftp.gnu.org/pub/gnu/libtool/libtool-2.5.4.tar.gz -- 20-11-2024
 https://ftp.gnu.org/pub/gnu/libtool/
 
 which
-https://ftp.gnu.org/pub/gnu/which/which-2.21.tar.gz -- 20-03-2015
+https://ftp.gnu.org/pub/gnu/which/which-2.23.tar.gz -- 01-02-2025
 https://ftp.gnu.org/pub/gnu/which/
 
 autoconf
@@ -86,27 +76,22 @@ https://ftp.gnu.org/pub/gnu/autoconf/autoconf-2.72.tar.gz -- 22-12-2023
 https://ftp.gnu.org/pub/gnu/autoconf/
 
 gawk
-https://ftp.gnu.org/gnu/gawk/gawk-5.3.0.tar.gz -- 02-11-2023
-https://ftp.gnu.org/gnu/gawk/gawk-5.3.1.tar.gz -- 18-09-2024
+https://ftp.gnu.org/gnu/gawk/gawk-5.3.2.tar.gz -- 02-04-2025
 https://ftp.gnu.org/gnu/gawk/
 
 gdbm
-https://ftp.gnu.org/gnu/gdbm/gdbm-1.23.tar.gz -- 04-02-2022
-https://ftp.gnu.org/gnu/gdbm/gdbm-1.24.tar.gz -- 02-07-2024
+https://ftp.gnu.org/gnu/gdbm/gdbm-1.26.tar.gz -- 30-07-2025
 https://ftp.gnu.org/gnu/gdbm/
 
 gettext
-https://ftp.gnu.org/gnu/gettext/gettext-0.21.1.tar.gz -- 09-10-2022
-https://ftp.gnu.org/gnu/gettext/gettext-0.22.5.tar.gz -- 21-02-2024
+https://ftp.gnu.org/gnu/gettext/gettext-0.26.tar.gz -- 19-07-2025
 https://ftp.gnu.org/gnu/gettext/
 
 automake
-https://ftp.gnu.org/gnu/automake/automake-1.16.5.tar.gz -- 03-10-2021
-https://ftp.gnu.org/gnu/automake/automake-1.17.tar.gz   -- 12-07-2024
+https://ftp.gnu.org/gnu/automake/automake-1.18.1.tar.gz -- 26-06-2025
 https://ftp.gnu.org/gnu/automake/
 
 bc
-https://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz -- 09-04-2017
 https://ftp.gnu.org/gnu/bc/bc-1.08.2.tar.gz -- 25-05-2025
 https://ftp.gnu.org/gnu/bc/
 
@@ -115,8 +100,7 @@ https://ftp.gnu.org/gnu/bison/bison-3.8.2.tar.gz -- 25-09-2021
 https://ftp.gnu.org/gnu/bison/
 
 coreutils
-https://ftp.gnu.org/gnu/coreutils/coreutils-9.4.tar.gz -- 29-08-2023
-https://ftp.gnu.org/gnu/coreutils/coreutils-9.5.tar.gz -- 28-03-2024
+https://ftp.gnu.org/gnu/coreutils/coreutils-9.8.tar.gz -- 22-09-2025
 https://ftp.gnu.org/gnu/coreutils/
 
 dejagnu
@@ -124,7 +108,7 @@ https://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.3.tar.gz -- 16-06-2021
 https://ftp.gnu.org/gnu/dejagnu/
 
 diffutils
-https://ftp.gnu.org/gnu/diffutils/diffutils-3.10.tar.xz -- 21-05-2023
+https://ftp.gnu.org/gnu/diffutils/diffutils-3.12.tar.gz -- 08-04-2025
 https://ftp.gnu.org/gnu/diffutils/
 
 pkg-config
@@ -132,12 +116,11 @@ https://pkgconfig.freedesktop.org/releases/pkg-config-0.29.2.tar.gz -- 20-03-201
 https://pkgconfig.freedesktop.org/releases/
 
 perl
-https://www.cpan.org/src/5.0/perl-5.39.5.tar.gz -- 29-11-2023
-https://www.cpan.org/src/5.0/perl-5.41.5.tar.gz -- 20-10-2024
+https://www.cpan.org/src/5.0/perl-5.43.3.tar.gz -- 13-10-2025
 https://www.cpan.org/src/5.0/
 
 patch
-https://ftp.gnu.org/gnu/patch/patch-2.7.6.tar.gz -- 06-02-2018
+https://ftp.gnu.org/gnu/patch/patch-2.8.tar.gz --29-03-2025
 https://ftp.gnu.org/gnu/patch/
 
 openssl
@@ -146,23 +129,21 @@ https://artfiles.org/openssl.org/source/openssl-3.2.0.tar.gz -- 23-11-2023
 https://artfiles.org/openssl.org/source/
 
 ninja
-https://github.com/ninja-build/ninja/archive/refs/tags/v1.11.1.tar.gz -- 30-08-2022
-https://github.com/ninja-build/ninja/archive/refs/tags/v1.12.1.tar.gz -- 11-05-2024
+https://github.com/ninja-build/ninja/archive/refs/tags/v1.13.1.tar.gz -- 10-06-2025
 https://github.com/ninja-build/ninja/
 
 m4
-https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.gz -- 28-05-2021
+https://ftp.gnu.org/gnu/m4/m4-1.4.20.tar.gz -- 10-05-2025
 https://ftp.gnu.org/gnu/m4/m4-latest.tar.gz
 https://ftp.gnu.org/gnu/m4/
 
 grep
-https://ftp.gnu.org/gnu/grep/grep-3.11.tar.gz -- 13-05-2023
+https://ftp.gnu.org/gnu/grep/grep-3.12.tar.gz -- 10-04-2025
 https://ftp.gnu.org/gnu/grep/
 
 glibc
-https://ftp.gnu.org/gnu/glibc/glibc-2.37.tar.gz -needed for pkg-conf -- 01-02-2023
-https://ftp.gnu.org/gnu/glibc/glibc-2.40.tar.gz -- 22-07-2024
-https://ftp.gnu.org/gnu/glibc/
+https://ftp.gnu.org/gnu/glibc/glibc-2.42.tar.gz -- 28-07-2025
+https://ftp.gnu.org/gnu/glibc/ -needed for pkg-conf
 
 flex
 https://github.com/westes/flex/releases/download/v2.6.4/flex-2.6.4.tar.gz -- 06-05-2017
@@ -174,17 +155,14 @@ https://ftp.spline.de/pub/OpenBSD/OpenSSH/openssh-9.9.tar.gz -- 19-09-2024
 https://ftp.spline.de/pub/OpenBSD/OpenSSH/
 
 readline
-https://ftp.gnu.org/gnu/readline/readline-8.2.tar.gz -- 26-09-2022
-https://ftp.gnu.org/gnu/readline/readline-8.2.13.tar.gz -- 02-08-2024
+https://ftp.gnu.org/gnu/readline/readline-8.3.tar.gz -- 03-07-2025
 https://ftp.gnu.org/gnu/readline/
 
 ed
-https://ftp.gnu.org/gnu/ed/ed-1.19.tar.lz -- 12-01-2023
-https://ftp.gnu.org/gnu/ed/ed-1.20.2.tar.lz -- 23-04-2024
+https://ftp.gnu.org/gnu/ed/ed-1.22.2.tar.lz -- 18-08-2025
 https://ftp.gnu.org/gnu/ed/
 
 xorriso
-https://ftp.gnu.org/gnu/xorriso/xorriso-1.5.4.pl02.tar.gz -- 06-02-2021
 https://ftp.gnu.org/gnu/xorriso/xorriso-1.5.6.pl02.tar.gz -- 20-06-2023
 https://ftp.gnu.org/gnu/xorriso/
 
@@ -194,40 +172,32 @@ https://ftp.gnu.org/gnu/findutils/findutils-4.10.0.tar.xz -- 01-06-2024
 https://ftp.gnu.org/gnu/findutils/
 
 elfutils
-https://sourceware.org/elfutils/ftp/0.189/elfutils-0.189.tar.bz2 -- 03-03-2023
-https://sourceware.org/elfutils/ftp/0.192/elfutils-0.192.tar.bz2 -- 18-10-2024
+https://sourceware.org/elfutils/ftp/0.193/elfutils-0.193.tar.bz2 -- 25-04-2025
 https://sourceware.org/elfutils/ftp/elfutils-latest.tar.bz2
 https://sourceware.org/elfutils/ftp/?C=M;O=D
 
 e2fsprogs
-https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.46.6/e2fsprogs-1.46.6.tar.gz	-- 02-02-2023
-https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.0/e2fsprogs-1.47.0.tar.gz	-- 07-02-2023
-https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.1/e2fsprogs-1.47.1.tar.gz -- 21-05-2024
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz -- 08-07-2025
 https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/
 
 dbus
-https://dbus.freedesktop.org/releases/dbus/dbus-1.15.2.tar.xz -- 05-10-2022
-https://dbus.freedesktop.org/releases/dbus/dbus-1.15.12.tar.xz -- 29-10-2024
+https://dbus.freedesktop.org/releases/dbus/dbus-1.16.2.tar.xz -- 27-02-2025
 https://dbus.freedesktop.org/releases/dbus/
 
 inetutils
-https://ftp.gnu.org/gnu/inetutils/inetutils-2.4.tar.gz -- 25.10.2022
-https://ftp.gnu.org/gnu/inetutils/inetutils-2.5.tar.gz -- 29-12-2023
+https://ftp.gnu.org/gnu/inetutils/inetutils-2.6.tar.gz -- 21-02-2025
 https://ftp.gnu.org/gnu/inetutils/
 
 gdb
-https://ftp.gnu.org/gnu/gdb/gdb-12.1.tar.gz -- 01.05.2022
-https://ftp.gnu.org/gnu/gdb/gdb-15.2.tar.gz -- 29-09-2024
+https://ftp.gnu.org/gnu/gdb/gdb-16.3.tar.gz -- 20-04-2025
 https://ftp.gnu.org/gnu/gdb/
 
 less
-https://ftp.gnu.org/gnu/less/less-608.tar.gz -- 31.10.2022
-https://ftp.gnu.org/gnu/less/less-668.tar.gz -- 17-10-2024
+https://ftp.gnu.org/gnu/less/less-679.tar.gz -- 19-06-2025
 https://ftp.gnu.org/gnu/less/
 
 gzip
-https://ftp.gnu.org/gnu/gzip/gzip-1.12.tar.gz -- 07.04.2022
-https://ftp.gnu.org/gnu/gzip/gzip-1.13.tar.gz -- 19-08-2023
+https://ftp.gnu.org/gnu/gzip/gzip-1.14.tar.gz -- 09-04-2025
 https://ftp.gnu.org/gnu/gzip/
 
 grub
@@ -241,7 +211,7 @@ https://ftp.gnu.org/gnu/groff/groff-1.23.0.tar.gz -- 05-07-2023
 https://ftp.gnu.org/gnu/groff/
 
 gperf
-https://ftp.gnu.org/gnu/gperf/gperf-3.1.tar.gz -- 05.01.2017
+https://ftp.gnu.org/gnu/gperf/gperf-3.3.tar.gz -- 20-04-2025
 https://ftp.gnu.org/gnu/gperf/
 
 cpio
@@ -255,15 +225,12 @@ dvdisaster -- dvd cd imaging tool with gui
 https://dvdisaster.jcea.es/downloads/dvdisaster-0.79.10.tar.bz2
 
 nano
-https://ftp.gnu.org/gnu/nano/nano-7.2.tar.gz -- 18.01.2023
-https://www.nano-editor.org/dist/v7/nano-7.2.tar.gz -- 18.01.2023
-https://www.nano-editor.org/dist/latest/nano-8.2.tar.gz -- 05-09-2024
+https://www.nano-editor.org/dist/v8/nano-8.6.tar.gz -- 21-08-2025
 https://www.nano-editor.org/dist/v8
 https://git.savannah.gnu.org/git/nano.git
 
 curl
-https://curl.se/download/curl-8.10.1.tar.gz -- 18-09-2024
-https://github.com/curl/curl/releases/download/curl-8_10_1/curl-8.10.1.tar.gz -- 18-09-2024 - same just on github
+https://curl.se/download/curl-8.16.0.tar.gz -- 10-09-2025
 https://curl.se/download.html
 
 wget
@@ -279,27 +246,26 @@ https://download.samba.org/pub/rsync/src/rsync-3.4.1.tar.gz -- 15-01-2025
 https://download.samba.org/pub/rsync/src/
 
 gnu parallel
-https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250222.tar.bz2 -- 22-02-2025
+https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250922.tar.bz2 -- 22-09-2025
 https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
 https://ftp.gnu.org/gnu/parallel/?C=M;O=D
 
 mlocate
 https://pagure.io/mlocate/archive/mlocate-0.26/mlocate-mlocate-0.26.tar.gz -- 22.09.2012 aktuell
 plocate
-https://plocate.sesse.net/download/plocate-1.1.22.tar.gz -- 12-01-2024
+https://plocate.sesse.net/download/plocate-1.1.23.tar.gz -- 24-11-2024
 https://plocate.sesse.net/download
 
 dialog
-https://invisible-island.net/archives/dialog/dialog-1.3-20240101.tgz -- 01.01.2024
-https://invisible-island.net/archives/dialog/dialog-1.3-20240619.tgz -- 20-06-2024
+https://invisible-island.net/archives/dialog/dialog-1.3-20251001.tgz -- 06-10-2025
 https://invisible-island.net/archives/dialog/?C=M;O=D
 
 smartmontools -- hdd test software
-https://sourceforge.net/projects/smartmontools/files/smartmontools/7.4/smartmontools-7.4.tar.gz/download -- 01-08-2023
+https://sourceforge.net/projects/smartmontools/files/smartmontools/7.5/smartmontools-7.5.tar.gz/download -- 30-04-2025
 https://sourceforge.net/projects/smartmontools/files/smartmontools/
 
 Hard disk drive and SSD health inspection tool
-https://sourceforge.net/projects/gsmartcontrol/files/1.1.4/gsmartcontrol-1.1.4.tar.bz2/download -- 09-02-2022
+https://sourceforge.net/projects/gsmartcontrol/files/2.0.2/gsmartcontrol-2.0.2.tar.gz/download -- 24-02-2025
 https://sourceforge.net/projects/gsmartcontrol/files/
 
 grsync
@@ -308,21 +274,19 @@ https://sourceforge.net/projects/grsync/files/
 https://www.opbyte.it/grsync/download.html
 
 iperf3
-https://downloads.es.net/pub/iperf/iperf-3.17.tar.gz -- 10-05-2024
+https://downloads.es.net/pub/iperf/iperf-3.19.1.tar.gz -- 25-07-2025
 https://downloads.es.net/pub/iperf/
 
 ncdu
-https://dev.yorhel.nl/download/ncdu-2.4-linux-x86_64.tar.gz -- 28.05.2024 -- v 2.4
-https://dev.yorhel.nl/download/ncdu-2.6-linux-x86_64.tar.gz -- 27-09-2024 -- v 2.6
+https://dev.yorhel.nl/download/ncdu-2.9.1-linux-x86_64.tar.gz -- 21-08-2025 -- v 2.9.1
 https://dev.yorhel.nl/ncdu
 
 ethtool
-https://mirrors.edge.kernel.org/pub/software/network/ethtool/ethtool-6.7.tar.gz -- 29.01.2024
-https://mirrors.edge.kernel.org/pub/software/network/ethtool/ethtool-6.11.tar.gz -- 08-10-2024
+https://mirrors.edge.kernel.org/pub/software/network/ethtool/ethtool-6.15.tar.gz -- 23-06-2025
 https://mirrors.edge.kernel.org/pub/software/network/ethtool/
 
 mutt
-http://ftp.mutt.org/pub/mutt/mutt-2.2.13.tar.gz -- 09-03-2024
+http://ftp.mutt.org/pub/mutt/mutt-2.2.15.tar.gz -- 02-10-2025
 http://ftp.mutt.org/pub/mutt/?C=M;O=D
 
 linux-utils includes lsblk
@@ -331,48 +295,59 @@ https://www.kernel.org/pub/linux/utils/util-linux/v2.41/util-linux-2.41.2.tar.gz
 https://www.kernel.org/pub/linux/utils/util-linux/
 
 qemu
-https://download.qemu.org/qemu-9.2.0-rc3.tar.bz2 -- 11-12-2024
+https://download.qemu.org/qemu-10.1.1.tar.xz -- 08-10-2025
+https://download.qemu.org/
 
 git
-https://www.kernel.org/pub/software/scm/git/git-2.49.0.tar.gz -- 14-03-2025
+https://www.kernel.org/pub/software/scm/git/git-2.49.1.tar.gz -- 08-07-2025
 https://www.kernel.org/pub/software/scm/git/
 
 gnu libunistring
+https://ftp.gnu.org/gnu/libunistring/libunistring-1.4.1.tar.gz -- 05-10-2025
 https://ftp.gnu.org/gnu/libunistring/?C=M;O=D
 
 dmidecode
+https://download.savannah.gnu.org/releases/dmidecode/dmidecode-3.6.tar.xz -- 24-04-2024
 https://download.savannah.gnu.org/releases/dmidecode/?C=M&O=D
 
 lnav -- logfile navigator
+https://github.com/tstack/lnav/releases/download/v0.13.2/lnav-0.13.2.tar.gz -- 22-09-2025
 https://github.com/tstack/lnav/releases
 
 inxi
 wget -O inxi https://codeberg.org/smxi/inxi/raw/master/inxi
 
 btop
-https://github.com/aristocratos/btop/archive/refs/tags/v1.4.2.tar.gz
-https://github.com/aristocratos/btop/archive/refs/tags/v1.4.4.tar.gz
+https://github.com/aristocratos/btop/archive/refs/tags/v1.4.5.tar.gz -- 22-09-2025
+https://github.com/aristocratos/btop/releases
 
 lsof
-https://github.com/lsof-org/lsof/releases/download/4.99.4/lsof-4.99.4.tar.gz
+https://github.com/lsof-org/lsof/releases/download/4.99.5/lsof-4.99.5.tar.gz -- 01-07-2025
+https://github.com/lsof-org/lsof/releases
 
 lowdown -- needed for btop
+https://github.com/kristapsdz/lowdown/archive/refs/tags/VERSION_2_0_2.tar.gz -- 16-02-2025
 https://github.com/kristapsdz/lowdown
 
 bat
+https://github.com/sharkdp/bat/archive/refs/tags/v0.25.0.tar.gz -- 07-01-2025
 https://github.com/sharkdp/bat
 
 lynx 
+https://invisible-mirror.net/archives/lynx/tarballs/lynx2.9.2.tar.gz -- 31-05-2024
 https://lynx.invisible-island.net/current/
 
 man-pages
+https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/snapshot/man-pages-6.15.tar.gz -- 20-07-2025
 https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/
 
 mediawiki wiki
-https://releases.wikimedia.org/mediawiki/ -- 1.44 - 22-07-2025
+https://releases.wikimedia.org/mediawiki/1.44/mediawiki-1.44.2.tar.gz -- 03-10-2025
+https://releases.wikimedia.org/mediawiki/
 
 busybox
 https://busybox.net/downloads/busybox-1.37.0.tar.bz2 -- 26-09-2024
 
 emacs
-https://ftp.gnu.org/gnu/emacs/?C=M;O=D -- 14-08-2025 v30.2
+https://ftp.gnu.org/gnu/emacs/emacs-30.2.tar.gz -- 14-08-2025
+https://ftp.gnu.org/gnu/emacs/?C=M;O=D
