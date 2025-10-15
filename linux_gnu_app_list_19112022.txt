@@ -245,6 +245,10 @@ rsync
 https://download.samba.org/pub/rsync/src/rsync-3.4.1.tar.gz -- 15-01-2025
 https://download.samba.org/pub/rsync/src/
 
+samba
+https://download.samba.org/pub/samba/samba-4.23.1.tar.gz -- 26-09-2025
+https://download.samba.org/pub/samba/?C=M;O=D
+
 gnu parallel
 https://ftp.halifax.rwth-aachen.de/gnu/parallel/parallel-20250922.tar.bz2 -- 22-09-2025
 https://ftp.halifax.rwth-aachen.de/gnu/parallel/?C=M;O=D
