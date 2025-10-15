@@ -351,6 +351,7 @@ https://releases.wikimedia.org/mediawiki/
 
 busybox
 https://busybox.net/downloads/busybox-1.37.0.tar.bz2 -- 26-09-2024
+https://git.busybox.net/busybox/
 
 emacs
 https://ftp.gnu.org/gnu/emacs/emacs-30.2.tar.gz -- 14-08-2025
