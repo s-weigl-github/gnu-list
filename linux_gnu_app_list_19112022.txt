@@ -10,6 +10,7 @@ https://mirror.netcologne.de/gnu/
 #
 
 buildroot
+https://buildroot.org/downloads/buildroot-2025.11.1.tar.gz -- 20-01.2026
 https://buildroot.org/downloads/buildroot-2025.08.1.tar.xz -- 11-10-2025
 https://buildroot.org/downloads/
 
@@ -365,3 +366,7 @@ https://ftp.fau.de/gnu/mtools/?C=M;O=D
 stow
 https://ftp.gnu.org/gnu/stow/stow-2.4.1.tar.gz -- 08-09-2024
 https://ftp.gnu.org/gnu/stow/?C=M;O=D
+
+shellcheck
+https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.gz -- 03-01-2026
+https://github.com/koalaman/shellcheck
