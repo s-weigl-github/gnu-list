@@ -370,3 +370,6 @@ https://ftp.gnu.org/gnu/stow/?C=M;O=D
 shellcheck
 https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.gz -- 03-01-2026
 https://github.com/koalaman/shellcheck
+
+f3 -- Fight Flash Fraud
+https://github.com/AltraMayor/f3 -- 27-03-2026
