@@ -383,3 +383,6 @@ https://github.com/koalaman/shellcheck
 
 f3 -- Fight Flash Fraud
 https://github.com/AltraMayor/f3 -- 27-03-2026
+
+lsscsi
+https://github.com/doug-gilbert/lsscsi
