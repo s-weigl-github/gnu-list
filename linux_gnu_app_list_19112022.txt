@@ -47,6 +47,7 @@ https://ftp.gnu.org/gnu/gdb/gdb-16.3.tar.gz -- 20-04-2025
 https://ftp.gnu.org/gnu/gdb/
 
 sed
+https://ftp.gnu.org/gnu/sed/sed-4.10.tar.gz -- 21-04-2026
 https://ftp.gnu.org/gnu/sed/sed-4.9.tar.gz -- 06-11-2022
 https://ftp.gnu.org/gnu/sed
 
